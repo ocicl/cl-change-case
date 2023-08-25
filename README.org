@@ -4,6 +4,6 @@ Convert strings between camelCase, param-case, PascalCase and more.
 
 |---------+-------------------------------------------------------------------------------------|
 | source  | file:https://github.com/rudolfochrist/cl-change-case/archive/refs/tags/0.2.0.tar.gz |
-| version | 0.2.0                                                                               |
+| version | 0.2.1                                                                               |
 | systems | cl-change-case                                                                      |
 |---------+-------------------------------------------------------------------------------------|
