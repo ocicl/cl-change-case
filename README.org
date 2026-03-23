@@ -3,7 +3,7 @@
 Convert strings between camelCase, param-case, PascalCase and more.
 
 |---------+-------------------------------------------------------------------------------------|
-| source  | file:https://github.com/rudolfochrist/cl-change-case/archive/refs/tags/cl-change-case-0.1.0.tar.gz   |
-| version | cl-change-case-0.1.0                                                                                 |
+| source  | file:https://github.com/rudolfochrist/cl-change-case/archive/refs/tags/1.0.tar.gz   |
+| version | 1.0                                                                                 |
 | systems | cl-change-case                                                                      |
 |---------+-------------------------------------------------------------------------------------|
