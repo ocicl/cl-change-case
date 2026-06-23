@@ -7,3 +7,4 @@ Convert strings between camelCase, param-case, PascalCase and more.
 | version | 1.0                                                                                 |
 | systems | cl-change-case                                                                      |
 |---------+-------------------------------------------------------------------------------------|
+ 
